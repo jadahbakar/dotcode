@@ -54,6 +54,7 @@ h1, h2, h3, h4, h5, h6 {
     font-family: "Open Sans", "Opensans", "Roboto", "Helvetica", -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
 }
 
+
 h3, h4 {
     font-weight: normal;
 }
@@ -5360,7 +5361,7 @@ textarea {
     margin-bottom: 2rem;
 }
 
-.section-home .home-title:before {
+/* .section-home .home-title:before {
     content: '';
     display: block;
     background: #fff;
@@ -5376,7 +5377,7 @@ textarea {
     width: 40%;
     height: 2px;
     margin: 5px auto 0;
-}
+} */
 
 @media (min-width: 768px) {
     .section-home .home-title {
