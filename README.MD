@@ -1,5 +1,5 @@
 <p align="center">
-	<a name="top" href=""><img src="img/dotcode/dotcode_logo_white.png">
+	<a name="top" href=""><img src="img/dotcode/dotcode_logo_black.png">
 	</a>
 </p>
 
