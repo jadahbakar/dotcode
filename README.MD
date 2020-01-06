@@ -21,6 +21,6 @@ Kami berkomitmen dalam membangun software yang kami tawarkan dengan memberikan k
 
 |                                                                      |                                                      |                         |
 | :------------------------------------------------------------------: | :--------------------------------------------------: | ----------------------- |
-| <img alt="Shandy" src="img/dotcode/shandy_siswandi.png" width="100"> | [Shandy Siswandi](https://github.com/shandysiswandi) | as The CEO              |
+| <img alt="Shandy" src="img/dotcode/shandy.png" width="100"> | [Shandy Siswandi](https://github.com/shandysiswandi) | as The CEO              |
 |       <img alt="dedy" src="img/dotcode/dedy.png" width="100">        |    [Dedy Styawan](https://github.com/jadahbakar)     | as The CTO              |
 |     <img alt="dedy" src="img/dotcode/yunindio.jpeg" width="100">     |     [Yunindyo Prabowo](https://github.com/ypraw)     | as The Backend Engineer |
